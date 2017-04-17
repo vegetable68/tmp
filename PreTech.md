@@ -1,6 +1,6 @@
 ---
-title: PreTech Summer 2017
 layout: post
+title: PreTech Summer 2017
 ---
 
 # Hello
