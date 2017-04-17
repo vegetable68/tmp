@@ -17,7 +17,7 @@ Extra course material will be shared via a Google drive folder.`
      * TA will hold weekly office hour starting from Apr 24th.
 - Section 2: [Functional Programming: Coursera Programming Languages Part A (Grossman)](https://www.coursera.org/learn/programming-languages) From May 15th, we expect you to complete the course by enrolling into the coursera course.  
      * There's a 39$ fee for certificate.
-     * All the assignments and exams must be turned in to TA for grading.
+     * All the assignments and exams must be turned in to TA by email for grading.
      * The last two assignments can be turned in after the course completion date.(July 3rd) 
      * All material will be graded before July 15th.
      * TA will hold office hour starting from May 22nd.
