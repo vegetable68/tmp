@@ -1,11 +1,11 @@
 ---
-layout: post
 title: PreTech Summer 2017
+layout: post
 ---
 
 # Hello
 
-Welcome to the PreTech Summer 2017 course offered by Prof. Deborah Estrin and Prof. Vitaly Shmatikov. 
+Welcome to the PreTech Summer 2017 prep course offered by Cornell Tech under the supervision of Deborah Estrin.
 There will be a slack channel and a mailing list for you to ask questions, please join in with your cornell email address.
 Extra course material will be shared via a Google drive folder.`
 
@@ -21,8 +21,6 @@ Extra course material will be shared via a Google drive folder.`
      * The last two assignments can be turned in after the course completion date.(July 3rd) 
      * All material will be graded before July 15th.
      * TA will hold office hour starting from May 22nd.
-- Section 3: Linear Algebra
-     * Linear Algebra contingency needs to be satisfied by a local or online graded course
 
 ## Office Hours
 
@@ -33,4 +31,8 @@ Extra course material will be shared via a Google drive folder.`
 ## Contact
 
 Yiqing Hua: yh663 [at] cornell [dot] edu 
+
+## Other
+
+[Prework course website](http://yiqing-hua.com/PreWork)
 
