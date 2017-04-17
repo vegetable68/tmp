@@ -5,7 +5,7 @@ layout: post
 
 # Hello
 
-Welcome to the PreTech Summer 2017 course. 
+Welcome to the PreTech Summer 2017 course offered by Prof. Deborah Estrin and Prof. Vitaly Shmatikov. 
 There will be a slack channel and a mailing list for you to ask questions, please join in with your cornell email address.
 Extra course material will be shared via a Google drive folder.`
 
