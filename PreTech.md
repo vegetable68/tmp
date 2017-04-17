@@ -1,3 +1,8 @@
+---
+title: PreTech Summer 2017
+layout: post
+---
+
 # Hello
 
 Welcome to the PreTech Summer 2017 course. 
