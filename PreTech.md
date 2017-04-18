@@ -26,7 +26,7 @@ Extra course material will be shared via a Google drive folder.`
 
 - The office hourse will start from Apr. 24th, the first four weeks will focus on content covered in 106B.
 - Tuesdays and Thursdays : 6 p.m. to 7 p.m. EST
-- Zoom link: TBD 
+- [Zoom link](https://zoom.us/j/500825568)
 
 ## Contact
 
