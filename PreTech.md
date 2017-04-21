@@ -6,7 +6,7 @@ layout: post
 # Hello
 
 Welcome to the PreTech Summer 2017 prep course offered by Cornell Tech under the supervision of Deborah Estrin.
-There will be a slack channel and a mailing list for you to ask questions, please join in with your cornell email address.
+There will be a slack channel and a mailing list for you to ask questions.
 Extra course material will be shared via a Google drive folder.`
 
 ## Schedule
@@ -19,6 +19,7 @@ Extra course material will be shared via a Google drive folder.`
 - Section 2: [Functional Programming: Coursera Programming Languages Part A (Grossman)](https://www.coursera.org/learn/programming-languages) From May 15th, we expect you to complete the course by enrolling into the coursera course.  
      * There's a 39$ fee for certificate.
      * All the assignments and exams must be turned in to TA by email for grading.
+     * You are encouraged to try the challenge problems but they will not be included in grading.
      * The last two assignments can be turned in after the course completion date.(July 3rd) 
      * All material will be graded before July 15th.
      * TA will hold office hour starting from May 22nd.
