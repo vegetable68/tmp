@@ -11,8 +11,7 @@ Extra course material will be shared via a Google drive folder.`
 
 ## Schedule
 
-- Section 1: [Algorithms and Data Structures: Stanford 106B](https://see.stanford.edu/Course/CS106B) From April 15th to May 15th, we expect you to complete the course in 4 to 5 weeks. 
-     * The last week can be overlaped with the next section. 
+- Section 1: [Algorithms and Data Structures: Stanford 106B](https://see.stanford.edu/Course/CS106B) From April 15th to May 15th, we expect you to complete the course in a pace of 4 lectures per week.
      * Problem sets, solutions and videos are available online. 
      * TA will hold weekly office hour starting from Apr 24th.
      * **Assignment**: Since the 106B libirary is not updated for current version of Xcode, we suggest doing the assignments from the latest 106B website : [Stanford 106B 2016 winter](http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/). You can test your code online.
@@ -35,7 +34,4 @@ Extra course material will be shared via a Google drive folder.`
 
 Yiqing Hua: yh663 [at] cornell [dot] edu 
 
-## Other
-
-[Prework course website](http://yiqing-hua.com/PreWork)
 
