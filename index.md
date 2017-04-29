@@ -4,4 +4,4 @@ I'm a PhD student in Cornell studying Computer Science. My main interest is in c
 
 # Courses
 
-I'm TAing for [PreTech Summer 2017 course](http://vegetable68.github.io/PreTech) and [PreWork Summer 2017 course](http://vegetable68.github.io/PreWork) offered in Cornell Tech. 
+I'm TAing for [PreTech Summer 2017 course](http://vegetable68.github.io/PreTech) and [PreWork Summer 2017 course](http://vegetable68.github.io/PrepWork) offered in Cornell Tech. 
