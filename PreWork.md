@@ -20,16 +20,17 @@ Extra course material will be shared via a Google drive folder.`
 
 1. In General 
 
-- The first half 30 minutes of the office hour will be me talking about the section problem sets from 2016 winter 106B. You don't have to do those problems, but it will be good if you can take a look at them.
-- The second 30 minutes will be people asking questions. 
+   - The first half 30 minutes of the office hour will be me talking about the section problem sets from 2016 winter 106B. You don't have to do those problems, but it will be good if you can take a look at them.
+   - The second 30 minutes will be people asking questions. 
 
-There will be two office hours in every week. The first 30 minutes will cover the same thing in the two office hours, also if people asked some questions that I think might be helpful to others, I'll email everyone.
-In conclusion, if you miss one of the office hours, it's totally fine. Also you are welcome to join any time during the office hour.
+   There will be two office hours in every week. The first 30 minutes will cover the same thing in the two office hours, also if people asked some questions that I think might be helpful to others, I'll email everyone.
+   In conclusion, if you miss one of the office hours, it's totally fine. Also you are welcome to join any time during the office hour.
 
 2. Time
 Office hours will start from May. 16th
 - Tuesdays: 8 a.m. to 9 a.m. EST
 - Thursdays: 7 p.m. to 8 p.m. EST
+
 3. [Zoom link](https://zoom.us/j/500825568)
 
 ## Late Submission
