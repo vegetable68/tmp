@@ -2,7 +2,9 @@
 
 I'm a PhD student in Cornell Tech studying Computer Science,
 advised by [Thomas Ristenpart](https://rist.tech.cornell.edu/) and [Mor Naaman](https://people.jacobs.cornell.edu/mor/).
-I study impact of disinformation, online harssment and other problems stemmed from social media, as well as technological solutions to combat them. 
+I interested in understanding and mitigating threats on social media.
+
+[cv](https://github.com/vegetable68/cv/blob/master/cv-yiqing-hua.pdf)
 
 # Publications
 
