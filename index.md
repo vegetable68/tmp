@@ -1,14 +1,18 @@
 # Hello
 
-I'm a PhD student in Cornell Tech studying Computer Science,
+I'm a PhD student at Cornell Tech studying Computer Science,
 advised by [Thomas Ristenpart](https://rist.tech.cornell.edu/) and [Mor Naaman](https://people.jacobs.cornell.edu/mor/).
-I interested in understanding and mitigating threats on social media.
+I am interested in understanding and mitigating threats on social media.
 
 [cv](https://github.com/vegetable68/cv/blob/master/cv-yiqing-hua.pdf)
 
 # Publications
 
 [Google scholar](scholar.google.com/citations?user=ING38FQAAAAJ&hl=en)
+
+* **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.
+`Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates`.  
+*To appear Proc. the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)*  
 
 * **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
 `Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections`.  
