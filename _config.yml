@@ -2,7 +2,7 @@ title: "Yiqing Hua"
 description: PhD Student in Cornell Tech
 google_analytics: 
 show_downloads:  
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
