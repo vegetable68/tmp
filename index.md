@@ -5,6 +5,7 @@ advised by [Thomas Ristenpart](https://rist.tech.cornell.edu/) and [Mor Naaman](
 I am interested in understanding and mitigating threats on social media.
 
 [cv](https://github.com/vegetable68/cv/blob/master/cv-yiqing-hua.pdf)
+[Twitter](https://twitter.com/yiqqqing)
 
 # Publications
 
