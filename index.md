@@ -14,14 +14,22 @@ I am interested in understanding and mitigating threats on social media.
 * **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.
 `Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates`.  
 *To appear Proc. the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)*  
+[pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)
 
 * **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
 `Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections`.  
 *To appear Proc. the 14th Annual Conference on Weblogs and Social Media (ICWSM 2020)*  
 
+* **Yiqing Hua**
+`Understanding BERT Performance in Propaganda Analysis`.
+*Proc. of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda. 2019.*
+[pdf](http://vegetable68.github.io/papers/bert_propaganda_emnlp2019.pdf) 
+
 * **Yiqing Hua**, Cristian Danescu-Niculescu-Mizil, Dario Taraborelli, Nithum Thain, Jeffery Sorensen and Lucas Dixon.  
 `WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community`.  
 *Proc. the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).*  
+[pdf](http://vegetable68.github.io/papers/wikiconv_emnlp2018.pdf) 
+[slides](http://vegetable68.github.io/slides/wikiconv_emnlp2018.pdf)
 
 * Justine Zhang, Jonathan P. Chang, Cristian Danescu-Niculescu-Mizil, Lucas Dixon, **Yiqing Hua**, Nithum Thain, and Dario Taraborelli.  
 `Conversations Gone Awry: Detecting Early Signs of Conversational Failure`.  
