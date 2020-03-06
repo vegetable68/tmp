@@ -43,6 +43,6 @@ I am interested in understanding and mitigating threats on social media.
 
 # Courses
 
-Fall 2017: CS4700
+* Fall 2017: CS4700
 * Summer 2017: [PreTech Summer 2017 course](http://vegetable68.github.io/PreTech) 
 * Summer 2017: [Prep Work Summer 2017 course](http://vegetable68.github.io/PreWork)
