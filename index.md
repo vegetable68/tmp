@@ -19,7 +19,7 @@ I am interested in understanding and mitigating threats on social media.
 
 * **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
 `Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections`.  
-*To appear Proc. the 14th Annual Conference on Weblogs and Social Media (ICWSM 2020)*
+*To appear Proc. the 14th Annual Conference on Weblogs and Social Media (ICWSM 2020)*  
 [pdf](http://vegetable68.github.io/papers/adversarial_candidates_icwsm2020.pdf)
 
 * **Yiqing Hua**.  
@@ -31,7 +31,7 @@ I am interested in understanding and mitigating threats on social media.
 * **Yiqing Hua**, Cristian Danescu-Niculescu-Mizil, Dario Taraborelli, Nithum Thain, Jeffery Sorensen and Lucas Dixon.  
 `WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community`.   
 *Proc. the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).*  
-[pdf](http://vegetable68.github.io/papers/wikiconv_emnlp2018.pdf) 
+[pdf](http://vegetable68.github.io/papers/wikiconv_emnlp2018.pdf)   
 [slides](http://vegetable68.github.io/slides/wikiconv_emnlp2018.pdf)
 
 * Justine Zhang, Jonathan P. Chang, Cristian Danescu-Niculescu-Mizil, Lucas Dixon, **Yiqing Hua**, Nithum Thain, and Dario Taraborelli.  
