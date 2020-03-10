@@ -25,7 +25,8 @@ I am interested in understanding and mitigating threats on social media.
 * **Yiqing Hua**.  
 `Understanding BERT Performance in Propaganda Analysis`.  
 *Proc. of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda. 2019.*  
-[pdf](http://vegetable68.github.io/papers/bert_propaganda_emnlp2019.pdf) 
+[pdf](http://vegetable68.github.io/papers/bert_propaganda_emnlp2019.pdf)   
+[code](https://github.com/vegetable68/propaganda_detection)
 
 * **Yiqing Hua**, Cristian Danescu-Niculescu-Mizil, Dario Taraborelli, Nithum Thain, Jeffery Sorensen and Lucas Dixon.  
 `WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community`.   
