@@ -15,6 +15,7 @@ I am interested in understanding and mitigating threats on social media.
 * **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.  
 `Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates`.  
 *To appear Proc. the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)*  
+**Honorable Mention**
 [pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)
 
 * **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
