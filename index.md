@@ -10,7 +10,7 @@ I am interested in understanding and mitigating threats on social media.
 
 # Publications
 
-[Google scholar](scholar.google.com/citations?user=ING38FQAAAAJ&hl=en)
+[Google scholar](https://scholar.google.com/citations?user=ING38FQAAAAJ&hl=en)
 
 * **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.  
 `Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates`.  
