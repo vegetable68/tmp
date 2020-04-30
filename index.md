@@ -15,21 +15,21 @@ I am interested in understanding and mitigating threats on social media.
 * **Yiqing Hua**, Mor Naaman and Thomas Ristenpart.  
 `Characterizing Twitter Users Who Engage in Adversarial Interactions against Political Candidates`.  
 *To appear Proc. the 2020 CHI Conference on Human Factors in Computing Systems (CHI 2020)*  
-**Honorable Mention**
-[pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)
-[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)
+**Honorable Mention**  
+[[pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)]
+[[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)]
 
 * **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
 `Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections`.  
 *To appear Proc. the 14th Annual Conference on Weblogs and Social Media (ICWSM 2020)*  
-[pdf](http://vegetable68.github.io/papers/adversarial_candidates_icwsm2020.pdf)
-[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)
+[[pdf](http://vegetable68.github.io/papers/adversarial_candidates_icwsm2020.pdf)]
+[[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)]
 
 * **Yiqing Hua**.  
 `Understanding BERT Performance in Propaganda Analysis`.  
 *Proc. of the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda. 2019.*  
-[pdf](http://vegetable68.github.io/papers/bert_propaganda_emnlp2019.pdf)   
-[code](https://github.com/vegetable68/propaganda_detection)
+[[pdf](http://vegetable68.github.io/papers/bert_propaganda_emnlp2019.pdf)]
+[[code](https://github.com/vegetable68/propaganda_detection)]
 
 * **Yiqing Hua**, Cristian Danescu-Niculescu-Mizil, Dario Taraborelli, Nithum Thain, Jeffery Sorensen and Lucas Dixon.  
 `WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community`.   
