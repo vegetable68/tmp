@@ -34,8 +34,8 @@ I am interested in understanding and mitigating threats on social media.
 * **Yiqing Hua**, Cristian Danescu-Niculescu-Mizil, Dario Taraborelli, Nithum Thain, Jeffery Sorensen and Lucas Dixon.  
 `WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community`.   
 *Proc. the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP 2018).*  
-[pdf](http://vegetable68.github.io/papers/wikiconv_emnlp2018.pdf)   
-[slides](http://vegetable68.github.io/slides/wikiconv_emnlp2018.pdf)
+[[pdf](http://vegetable68.github.io/papers/wikiconv_emnlp2018.pdf)]
+[[slides](http://vegetable68.github.io/slides/wikiconv_emnlp2018.pdf)]
 
 * Justine Zhang, Jonathan P. Chang, Cristian Danescu-Niculescu-Mizil, Lucas Dixon, **Yiqing Hua**, Nithum Thain, and Dario Taraborelli.  
 `Conversations Gone Awry: Detecting Early Signs of Conversational Failure`.   
