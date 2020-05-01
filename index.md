@@ -17,6 +17,7 @@ I am interested in understanding and mitigating threats on social media.
 **Honorable Mention**  
 [[pdf](http://vegetable68.github.io/papers/adversarial_user_chi2020.pdf)]
 [[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)]
+[[slides](http://vegetable68.github.io/slides/chi2020_slides.pdf)]
 
 * **Yiqing Hua**, Thomas Ristenpart and Mor Naaman.  
 `Towards Measuring Adversarial Twitter Interactions against Candidates in the US Midterm Elections`.  
