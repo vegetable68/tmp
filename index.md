@@ -24,6 +24,8 @@ I am interested in understanding and mitigating threats on social media.
 *To appear Proc. the 14th Annual Conference on Weblogs and Social Media (ICWSM 2020)*  
 [[pdf](http://vegetable68.github.io/papers/adversarial_candidates_icwsm2020.pdf)]
 [[dataset](https://figshare.com/articles/U_S_Midterm_Election_Twitter_Dataset_2018/11374062)]
+[[presentation]](https://youtu.be/skS0L5RrYJk)
+[[slides]](http://vegetable68.github.io/slides/icwsm2020_slides.pdf)
 
 * **Yiqing Hua**.  
 `Understanding BERT Performance in Propaganda Analysis`.  
