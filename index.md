@@ -35,6 +35,11 @@ I am interested in understanding and mitigating threats on social media.
 [[presentation]](https://youtu.be/skS0L5RrYJk)
 [[slides]](http://vegetable68.github.io/slides/icwsm2020_slides.pdf)
 
+* Eugene Bagdasaryan, Andreas Veit, **Yiqing Hua**, Deborah Estrin, Vitaly Shmatikov.
+`How to backdoor federated learning`.
+*Proc. the International Conference on Artificial Intelligence and Statistics. 2020.*
+
+
 * **Yiqing Hua**.  
 `Understanding BERT Performance in Propaganda Analysis`.  
 *Proc. the Second Workshop on Natural Language Processing for Internet Freedom: Censorship, Disinformation, and Propaganda. 2019.*  
