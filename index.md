@@ -65,8 +65,9 @@ I am interested in measuring and mitigating threats on social media.
 * ICWSM 2020 Best Reviewer
 * Reviewer for WebSci 2020, ICWSM 2019/2020/2021, NAACL-HLT 2019, CSCW 2021
 
-# Courses
+# TA experience 
 
+* Spring 2021: Tech, Media and Democracy
 * Fall 2017: CS4700
 * Summer 2017: [PreTech Summer 2017 course](http://vegetable68.github.io/PreTech) 
 * Summer 2017: [Prep Work Summer 2017 course](http://vegetable68.github.io/PreWork)
