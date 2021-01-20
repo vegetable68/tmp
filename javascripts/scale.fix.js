@@ -3,7 +3,7 @@ fixScale = function(doc) {
 	var addEvent = 'addEventListener',
 	    type = 'gesturestart',
 	    qsa = 'querySelectorAll',
-	    scales = [1, 2],
+	    scales = [1, 1],
 	    meta = qsa in doc ? doc[qsa]('meta[name=viewport]') : [];
 
 	function fix() {
